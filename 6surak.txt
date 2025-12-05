@@ -1,0 +1,2 @@
+6) Что такое Object?
+Object — бұл S3 ішіндегі файл. Мысалы, bucket ішінде hoto.png, data.json, text.txt. Осыларды object деп айтамыз.
